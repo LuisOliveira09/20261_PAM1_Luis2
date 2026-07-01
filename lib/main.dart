@@ -94,7 +94,7 @@ class PaginaInicial extends StatelessWidget {
               alignment: Alignment.centerLeft,
               child: Text(
                 'Resumo Profissional',
-                style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: Colors.redAccent),
+                style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold, color: Color.fromARGB(255, 83, 111, 201)),
               ),
             ),
             const SizedBox(height: 10),
